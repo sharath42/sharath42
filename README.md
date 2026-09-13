@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Sharath Gourishetty
 
 <h3 align="center">
-Data Engineer | ETL Developer | PySpark | Databricks
+Data Engineer | ETL/ELT Developer | PySpark | Databricks
 </h3>
 
 <p align="center">
